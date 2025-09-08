@@ -1,7 +1,6 @@
 t Command Cheat Sheet
 
-Welcome to your quick-reference guide for essential Linux and Git commands. Whether you're navigating the terminal or managing version control, this cheat sheet has you covered.
-
+Welcome to your quick-reference guide for essential Linux and Git commands. Whether you're navigating the terminal or managing version control, this cheat sheet has you covered. This is an user friendly version by Daniel Martino using AI.
 ---
 
 ## 🐧 Linux Commands
