@@ -54,7 +54,7 @@ Welcome to your quick-reference guide for essential Linux and Git commands. Whet
 | `git reset [file]`          | Unstages a file without deleting changes
 /  git fetch                  / Downloads changes from remote without merging   /
 /  git rebase [branch]        / Reapplies commits on top of another base branch /
-
+/  git tag [name]             / Creates a tag for a specific commit             /`
 
 Instruction Manual for Using Element's Command Features
 
