@@ -30,7 +30,7 @@ Welcome to your quick-reference guide for essential Linux and Git commands. Whet
 /  head [file]        / Displays the first few lines of a file          /
 /  tail [file]        / Displays the last few lines of a file           /
 /  wget [url]         / Downloads files from the web                    /
-
+/  curl [url]         / Transfers data from or to a server              /
 
 
 ## 🌱 Git Commands
