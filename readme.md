@@ -25,6 +25,7 @@ Welcome to your quick-reference guide for essential Linux and Git commands. Whet
 /  df -h              / Shows disk space usage in human-readable format /
 /  du -sh [dir]       / Displays the size of a directory                /
 /  history            / Lists previously executed commands              /
+/  clear              / Clears the terminal screen                      /   
 
 
 ## 🌱 Git Commands
