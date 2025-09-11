@@ -55,6 +55,6 @@ Welcome to your quick-reference guide for essential Linux and Git commands. Whet
 /  git fetch                  / Downloads changes from remote without merging   /
 /  git rebase [branch]        / Reapplies commits on top of another base branch /
 /  git tag [name]             / Creates a tag for a specific commit             /`
-
+/  git rm [file]              / Removes a file from the working directory and staging area /
 Instruction Manual for Using Element's Command Features
 
