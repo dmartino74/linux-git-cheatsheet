@@ -31,7 +31,7 @@ Welcome to your quick-reference guide for essential Linux and Git commands. Whet
 /  tail [file]        / Displays the last few lines of a file           /
 /  wget [url]         / Downloads files from the web                    /
 /  curl [url]         / Transfers data from or to a server              /
-
+/  ps aux             / Lists all running processes                     /
 
 ## 🌱 Git Commands
 
