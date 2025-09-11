@@ -28,6 +28,10 @@ Welcome to your quick-reference guide for essential Linux and Git commands. Whet
 /  clear              / Clears the terminal screen                      /   
 /  find [dir] -name [file] / Searches for a file by name within a directory /
 /  head [file]        / Displays the first few lines of a file          /
+/  tail [file]        / Displays the last few lines of a file           /
+/  wget [url]         / Downloads files from the web                    /
+
+
 
 ## 🌱 Git Commands
 
