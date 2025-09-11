@@ -26,6 +26,7 @@ Welcome to your quick-reference guide for essential Linux and Git commands. Whet
 /  du -sh [dir]       / Displays the size of a directory                /
 /  history            / Lists previously executed commands              /
 /  clear              / Clears the terminal screen                      /   
+/  find [dir] -name [file] / Searches for a file by name within a directory /
 
 
 ## 🌱 Git Commands
