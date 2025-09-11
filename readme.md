@@ -52,7 +52,7 @@ Welcome to your quick-reference guide for essential Linux and Git commands. Whet
 | `git diff`                  | Shows differences between commits or files      |
 | `git stash`                 | Temporarily saves changes for later             |
 | `git reset [file]`          | Unstages a file without deleting changes
-
+/  git fetch                  / Downloads changes from remote without merging   /
 
 
 
