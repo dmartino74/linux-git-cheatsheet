@@ -27,7 +27,7 @@ Welcome to your quick-reference guide for essential Linux and Git commands. Whet
 /  history            / Lists previously executed commands              /
 /  clear              / Clears the terminal screen                      /   
 /  find [dir] -name [file] / Searches for a file by name within a directory /
-
+/  head [file]        / Displays the first few lines of a file          /
 
 ## 🌱 Git Commands
 
