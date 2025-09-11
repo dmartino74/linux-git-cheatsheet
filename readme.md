@@ -23,6 +23,7 @@ Welcome to your quick-reference guide for essential Linux and Git commands. Whet
 | `grep [pattern] [file]`| Searches for a pattern in a file             |
 | `top`               | Displays real-time system processes             
 /  df -h              / Shows disk space usage in human-readable format /
+/  du -sh [dir]       / Displays the size of a directory                /
 
 ## 🌱 Git Commands
 
