@@ -21,9 +21,8 @@ Welcome to your quick-reference guide for essential Linux and Git commands. Whet
 | `man [command]`     | Opens the manual page for a command              |
 | `chmod [mode] [file]`| Changes file permissions                        |
 | `grep [pattern] [file]`| Searches for a pattern in a file             |
-| `top`               | Displays real-time system processes              |
-
----
+| `top`               | Displays real-time system processes             
+/  df -h              / Shows disk space usage in human-readable format /
 
 ## 🌱 Git Commands
 
